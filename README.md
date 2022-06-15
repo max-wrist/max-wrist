@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @max-wrist
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning bruteforce attack
+- 👋 Hi, I’m Peter Mwanzia
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on any field
 - 📫 How to reach me ...prosoftsolution1@gmail.com
 
